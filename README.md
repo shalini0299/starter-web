@@ -20,4 +20,4 @@ For contributions contact the admin
 
 ### Copyright
 
-Git.training 
+Git.training All rights reserved
